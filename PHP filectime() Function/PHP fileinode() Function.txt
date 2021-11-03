@@ -1,0 +1,15 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo fileinode("test.txt");
+?>
+
+</body>
+</html>
+
+
+
+398326

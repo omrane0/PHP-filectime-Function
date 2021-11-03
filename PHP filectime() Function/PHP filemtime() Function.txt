@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo filemtime("webdictionary.txt");
+echo "<br>";
+echo "Content last changed: ".date("F d Y H:i:s.", filemtime("webdictionary.txt"));
+?>
+
+</body>
+</html>
+
+
+1540211788
+Content last changed: October 22 2018 12:36:28.

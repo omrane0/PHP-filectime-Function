@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo filegroup("test.txt");
+?>
+
+</body>
+</html>
+
+
+0
